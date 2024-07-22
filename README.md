@@ -1,5 +1,5 @@
 # settings.json-VSCode
-
+```JSON
 {
 	// Code editor
 	"workbench.startupEditor": "none",
@@ -105,3 +105,4 @@
 		"usecases",
 	],
 }
+```
