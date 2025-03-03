@@ -3,9 +3,9 @@
 {
 	// Code editor
 	"workbench.startupEditor": "none",
-	"workbench.colorTheme": "Atom One Dark",
 	"workbench.iconTheme": "symbols",
 	"editor.fontFamily": "Cascadia Code",
+	"workbench.colorTheme": "Atom One Dark",
 	"terminal.integrated.fontFamily": "Cascadia Code",
 	"symbols.hidesExplorerArrows": true,
 	"editor.lineHeight": 2,
@@ -76,17 +76,6 @@
 		"ui": "folder-layout",
 		"hooks": "folder-blue-code",
 		"sections": "folder-purple-code"
-	},
-	"cSpell.userWords": [
-		"biomejs",
-		"clsx",
-		"fastify",
-		"hookform",
-		"nestjs",
-		"tailwindcss",
-		"tanstack",
-		"tsup",
-		"usecase",
-	],
+	}
 }
 ```
